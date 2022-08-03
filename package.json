@@ -1,6 +1,6 @@
 {
-  "name": "nestjs-fireorm",
-  "version": "0.0.0",
+  "name": "@newgameplus/nestjs-fireorm",
+  "version": "1.1.15",
   "description": "Nestjs Fireorm module",
   "keywords": [
     "nestjs",
